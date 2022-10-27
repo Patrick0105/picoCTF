@@ -19,6 +19,7 @@ if len(sys.argv) < 2 or len(sys.argv) > 4:
 
 
 
+
 if sys.argv[1] == "-e":
     if len(sys.argv) < 4:
         sim_sala_bim = input("Please enter the password:")
